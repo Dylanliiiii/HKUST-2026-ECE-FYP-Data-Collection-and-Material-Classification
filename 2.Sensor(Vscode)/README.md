@@ -76,7 +76,7 @@ Sensor/
 #### 步骤1: 检查环境
 
 ```bash
-cd Sensor
+cd cd "2.Sensor(Vscode)"
 python check_system.py
 ```
 
