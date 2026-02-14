@@ -1,0 +1,7 @@
+﻿文件名,预测材料,置信度
+Material_Predict_1_preprocessed.csv,Material_POM_raw,72.60%
+Material_Predict_2_preprocessed.csv,Material_Wood_raw,42.85%
+Material_Predict_3_preprocessed.csv,Material_Silicone_raw,50.75%
+Material_Predict_4_preprocessed.csv,Material_EPEfoam_raw,83.69%
+Material_Predict_5_preprocessed.csv,Material_Metal_raw,96.31%
+Material_Predict_6_preprocessed.csv,Material_Silicone_raw,45.31%

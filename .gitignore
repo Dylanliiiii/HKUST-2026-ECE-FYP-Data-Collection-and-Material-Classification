@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Model artifacts
+models/
+*.pkl
+*.h5
+*.pth
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+test_output/
+temp/
+
+# OS files
+.DS_Store
+Thumbs.db
